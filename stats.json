@@ -1,0 +1,88 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-otkit-colors-js": [
+      "component---src-pages-otkit-colors-js-7028f5e235e965963d6d.js",
+      "component---src-pages-otkit-colors-js-7028f5e235e965963d6d.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-0347088a9c5950b0b8f3.js",
+      "component---src-pages-index-js-0347088a9c5950b0b8f3.js.map"
+    ],
+    "path---otkit-icons": [
+      "path---otkit-icons-a0e39f21c11f6a62c5ab.js",
+      "path---otkit-icons-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---otkit-colors": [
+      "path---otkit-colors-a0e39f21c11f6a62c5ab.js",
+      "path---otkit-colors-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-otkit-spacing-js": [
+      "component---src-pages-otkit-spacing-js-ab2cc333fabf2a9e6791.js",
+      "component---src-pages-otkit-spacing-js-ab2cc333fabf2a9e6791.js.map"
+    ],
+    "component---src-pages-otkit-icons-js": [
+      "component---src-pages-otkit-icons-js-2bcd7d92760652aa8ed3.js",
+      "component---src-pages-otkit-icons-js-2bcd7d92760652aa8ed3.js.map"
+    ],
+    "path---otkit-shadows": [
+      "path---otkit-shadows-a0e39f21c11f6a62c5ab.js",
+      "path---otkit-shadows-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-otkit-typography-js": [
+      "component---src-pages-otkit-typography-js-88a437b81d75f2673df0.js",
+      "component---src-pages-otkit-typography-js-88a437b81d75f2673df0.js.map"
+    ],
+    "path---otkit-borders": [
+      "path---otkit-borders-a0e39f21c11f6a62c5ab.js",
+      "path---otkit-borders-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-022c9a969b172d6d40e6.js",
+      "component---src-layouts-index-js-022c9a969b172d6d40e6.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-otkit-shadows-js": [
+      "component---src-pages-otkit-shadows-js-a80fe6426a466df307c0.js",
+      "component---src-pages-otkit-shadows-js-a80fe6426a466df307c0.js.map"
+    ],
+    "commons": [
+      "commons-9bef928433e728507923.js",
+      "build-js-styles.css",
+      "commons-9bef928433e728507923.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-otkit-breakpoints-js": [
+      "component---src-pages-otkit-breakpoints-js-76943cafb7fd24d05be3.js",
+      "component---src-pages-otkit-breakpoints-js-76943cafb7fd24d05be3.js.map"
+    ],
+    "path---otkit-breakpoints": [
+      "path---otkit-breakpoints-a0e39f21c11f6a62c5ab.js",
+      "path---otkit-breakpoints-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---otkit-typography": [
+      "path---otkit-typography-a0e39f21c11f6a62c5ab.js",
+      "path---otkit-typography-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-otkit-borders-js": [
+      "component---src-pages-otkit-borders-js-9dc07cad3f2c9b61e949.js",
+      "component---src-pages-otkit-borders-js-9dc07cad3f2c9b61e949.js.map"
+    ],
+    "app": [
+      "app-821e2183f4753fda2516.js",
+      "build-js-styles.css",
+      "app-821e2183f4753fda2516.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---otkit-spacing": [
+      "path---otkit-spacing-a0e39f21c11f6a62c5ab.js",
+      "path---otkit-spacing-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
